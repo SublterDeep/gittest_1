@@ -1,4 +1,3 @@
-
 new inline at github
 new inline at disk
-new inline 2 at disk
+new another inline 2 at disk
