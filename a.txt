@@ -2,3 +2,4 @@ hello world
 i changed a.txt
 new inline at github
 new inline at disk
+new inline 2 at disk
